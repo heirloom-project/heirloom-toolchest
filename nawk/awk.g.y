@@ -24,7 +24,7 @@
 */
 /*		copyright	"%c%" 	*/
 
-/*	from $Header: /Users/james/Documents/code/heirloom/heirloom.cvs/heirloom/nawk/awk.g.y,v 1.1 2004/12/04 13:51:00 gritter Exp $	*/
+/*	from $Header: /Users/james/Documents/code/heirloom/heirloom.cvs/heirloom/nawk/awk.g.y,v 1.1.1.1 2004/12/04 13:51:00 gritter Exp $	*/
 
 %{
 #include "awk.h"

@@ -25,7 +25,7 @@
 /*	copyright	"%c%"	*/
 
 /*	from unixsrc:usr/src/common/cmd/awk/lib.c /main/uw7_nj/1	*/
-/*	$Header: /Users/james/Documents/code/heirloom/heirloom.cvs/heirloom/nawk/lib.c,v 1.1 2004/12/04 13:50:59 gritter Exp $	*/
+/*	$Header: /Users/james/Documents/code/heirloom/heirloom.cvs/heirloom/nawk/lib.c,v 1.1.1.1 2004/12/04 13:50:59 gritter Exp $	*/
 
 #define DEBUG
 #include <stdio.h>

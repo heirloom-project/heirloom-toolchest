@@ -25,7 +25,7 @@
 /*		copyright	"%c%" 	*/
 
 /*	from unixsrc:usr/src/common/cmd/awk/maketab.c /main/uw7_nj/1	*/
-/*	from $Header: /Users/james/Documents/code/heirloom/heirloom.cvs/heirloom/nawk/maketab.c,v 1.1 2004/12/04 13:50:58 gritter Exp $	*/
+/*	from $Header: /Users/james/Documents/code/heirloom/heirloom.cvs/heirloom/nawk/maketab.c,v 1.1.1.1 2004/12/04 13:50:58 gritter Exp $	*/
 static const char sccsid[] = "@(#)maketab.c	1.10 (gritter) 4/26/04";
 
 #include <stdio.h>

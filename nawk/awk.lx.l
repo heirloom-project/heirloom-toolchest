@@ -59,7 +59,7 @@
 /*		copyright	"%c%"	*/
 
 /*	from unixsrc:usr/src/common/cmd/awk/awk.lx.l /main/uw7_nj/1	*/
-/*	from $Header: /Users/james/Documents/code/heirloom/heirloom.cvs/heirloom/nawk/awk.lx.l,v 1.1 2004/12/04 13:51:00 gritter Exp $	*/
+/*	from $Header: /Users/james/Documents/code/heirloom/heirloom.cvs/heirloom/nawk/awk.lx.l,v 1.1.1.1 2004/12/04 13:51:00 gritter Exp $	*/
 
 /*%Start A str sc reg comment*/
 /*%X A str sc reg comment*/

@@ -26,7 +26,7 @@
 
 
 /*	from unixsrc:usr/src/common/cmd/awk/run.c /main/uw7_nj/1	*/
-/*	from $Header: /Users/james/Documents/code/heirloom/heirloom.cvs/heirloom/nawk/run.c,v 1.1 2004/12/04 13:50:59 gritter Exp $	*/
+/*	from $Header: /Users/james/Documents/code/heirloom/heirloom.cvs/heirloom/nawk/run.c,v 1.1.1.1 2004/12/04 13:50:59 gritter Exp $	*/
 
 #define tempfree(x,s)	if (istemp(x)) tfree(x,s); else
 
